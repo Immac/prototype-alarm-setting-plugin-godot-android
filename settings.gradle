@@ -1,0 +1,2 @@
+rootProject.name = "Alarm Setting Library"
+include ':app'

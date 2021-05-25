@@ -1,0 +1,7 @@
+[config]
+
+name="Alarm Manager"
+binary_type="local"
+binary="AlarmManager.aar"
+
+[dependencies]
