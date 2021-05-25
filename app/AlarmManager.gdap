@@ -1,0 +1,5 @@
+[config]
+
+name="AlarmManager"
+binary_type="local"
+binary="AlarmManager.debug.aar"
